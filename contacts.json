@@ -1,0 +1,23 @@
+[
+    {
+        "firstname": "caitlin",
+        "lastname": "renner",
+        "email": "Caitlin.Renner@barings.com",
+        "number": "01268 3456784",
+        "gender": "female"
+    },
+    {
+        "firstname": "Eddie",
+        "lastname": "Comarzan",
+        "email": "Eddie.Comarzan@barings.com",
+        "number": "012687651234",
+        "gender": "male"
+    },
+    {
+        "firstname": "Malakia",
+        "lastname": "Grante",
+        "email": "Malakia.Grants@barings.com",
+        "number": "02074161336",
+        "gender": "female"
+    }
+]
